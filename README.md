@@ -1,4 +1,4 @@
 # AI governance
 
 ### Links to useful resources
-[AI Risk Repository](https://airisk.mit.edu/)
+1. [AI Risk Repository](https://airisk.mit.edu/)
